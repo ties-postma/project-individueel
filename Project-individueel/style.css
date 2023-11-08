@@ -21,6 +21,8 @@ h3{
 .logo{
     align-items: left;
     padding-left: 10px;
+    height: 50px;
+    width: 50px;
 }
 
 .topbar h1{
@@ -75,6 +77,11 @@ h3{
     overflow: hidden;
 }
 
+.BoxImage{
+    height: 100%;
+    width: 100%;
+}
+
 .footerbox{
     width: 80%;
     height: 80px;
@@ -84,6 +91,15 @@ h3{
     padding-bottom: 10px;
     margin: auto;
     margin-top: 10px;
+}
+
+.footerbox p{
+    font-size: 0.8em;
+}
+
+.MapsImg{
+    height: 112.5%; 
+    width: 100%;
 }
 
 .topimage {
